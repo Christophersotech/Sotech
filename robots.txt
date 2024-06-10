@@ -1,0 +1,9 @@
+User-agent:*
+Allow: /A_propos/
+Allow: /ab/
+Allow: /index/
+Allow: /men/
+Allow: /off/
+Allow: /sol/
+Allow: /web/
+Sitemap: https//christophersotech.github.io/Sotech/index.html/sitemap.xml
