@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://christophersotech.github.io/Sotech/index.html/</loc>
+    <lastmod>2024-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://christophersotech.github.io/Sotech/ab.html/</loc>
+    <lastmod>2024-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://christophersotech.github.io/Sotech/sol.html/</loc>
+    <lastmod>2024-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://christophersotech.github.io/Sotech/men.html/</loc>
+    <lastmod>2024-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://christophersotech.github.io/Sotech/web.html/</loc>
+    <lastmod>2024-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://christophersotech.github.io/Sotech/off.html/</loc>
+    <lastmod>2024-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+<url>
+    <loc>https://christophersotech.github.io/Sotech/A_propos.html/</loc>
+    <lastmod>2024-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
