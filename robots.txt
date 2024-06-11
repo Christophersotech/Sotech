@@ -6,4 +6,4 @@ Allow: /men/
 Allow: /off/
 Allow: /sol/
 Allow: /web/
-Sitemap: https//christophersotech.github.io/sitemap.xml
+Sitemap: https://github.com/Christophersotech/Sotech/blob/main/sitemap.xml
